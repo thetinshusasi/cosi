@@ -1,0 +1,13 @@
+Pros:
+1. Lower cost
+2. No infrastructure to maintain and Zero system administration
+3. No costs when functions aren't running
+4. Infinitely scalable
+5. Reduced latency
+6. Faster set up and Monitoring out of the box.
+
+Cons:
+1. Debugging is more difficult
+2. Vendor lock-in
+3. Cost is unpredictable because the number of executions is not predefined
+4. Security risk
